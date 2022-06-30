@@ -8,4 +8,3 @@ tags: [servers,dell,hp,supermicro]
 # Welcome
 
 Ola
-!
