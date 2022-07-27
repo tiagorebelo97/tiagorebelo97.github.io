@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://tiagorebelo97.github.io.git/sitemap.xml
